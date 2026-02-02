@@ -43,5 +43,9 @@ https://enyoodsn.github.io/fundo-magico-ia/
 ## Projeto inicial do Figma
 https://www.figma.com/design/mPimr9UgxrBhq7K1sk4aaT/Figma-Project---Fundo-M%C3%A1gico?node-id=0-1&t=1SWQ6r7Ijne72KIL-1
 
+## Por que este projeto?
 
+Este projeto foi criado com o objetivo de explorar a integração entre interfaces front-end, automação de fluxos e geração de conteúdo com Inteligência Artificial.
+A proposta é oferecer uma experiência visual em tempo real, permitindo que o usuário gere backgrounds personalizados a partir da combinação de cores, ao mesmo tempo em que recebe o código HTML e CSS reutilizável.
 
+O Fundo Mágico une design, desenvolvimento e automação, demonstrando a aplicação prática de IA em um produto funcional, acessível e voltado para uso real.
