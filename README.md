@@ -37,5 +37,8 @@ https://github.com/user-attachments/assets/ea629acc-9f74-4aad-827c-170bca973e6b
 ## Workflow do n8n
 <img width="1211" height="515" alt="image" src="https://github.com/user-attachments/assets/1e9f2fa3-ea7b-45f0-9147-1d4f51ab7b7e" />
 
+## Teste você mesmo!
+https://enyoodsn.github.io/fundo-magico-ia/
+
 
 
