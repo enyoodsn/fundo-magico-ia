@@ -40,5 +40,8 @@ https://github.com/user-attachments/assets/ea629acc-9f74-4aad-827c-170bca973e6b
 ## Teste você mesmo!
 https://enyoodsn.github.io/fundo-magico-ia/
 
+## Projeto inicial do Figma
+https://www.figma.com/design/mPimr9UgxrBhq7K1sk4aaT/Figma-Project---Fundo-M%C3%A1gico?node-id=0-1&t=1SWQ6r7Ijne72KIL-1
+
 
 
